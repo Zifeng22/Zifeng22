@@ -19,4 +19,3 @@ Smart Expense Management System
 
 ## Links
 - LinkedIn: linkedin.com/in/chan-zi-feng-7043703b4
-- GitHub: github.com/Zifeng22
