@@ -19,4 +19,4 @@ Smart Expense Management System
 
 ## Links
 - LinkedIn: linkedin.com/in/chan-zi-feng-7043703b4
-- CV : https://drive.google.com/file/d/1C27t79x8ek0uyU4sZVzZQM9DDWjvhM2m/view?usp=sharing
+- Resume : https://drive.google.com/file/d/1oBARjmEsUdlCgKPRGV9WhkHqGqlBjzm6/view?usp=sharing
