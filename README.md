@@ -15,7 +15,8 @@ Currently focused on backend development, database design, and building real-wor
 - Git & GitHub
 
 ## Featured Project
-Smart Expense Management System
+- Smart Expense Management System
+- MyBusLive
 
 ## Links
 - LinkedIn: linkedin.com/in/chan-zi-feng-7043703b4
