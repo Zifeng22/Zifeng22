@@ -1,12 +1,14 @@
 # Chan Zi Feng
 
-Software Engineering student with experience in full-stack web development using Java, Spring Boot, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, and Git.
+Software Engineering student with experience in full-stack web development using Java, Spring Boot, Expo, CLI, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, and Git.
 
-Currently focused on backend development, database design, and building real-world web applications.
+Currently focused on backend development, database design, AI, automation, and building real-world web applications.
 
 ## Technologies
 - Java
 - C++
+- Expo
+- CLI
 - Spring Boot
 - PostgreSQL
 - HTML/CSS
@@ -17,6 +19,10 @@ Currently focused on backend development, database design, and building real-wor
 ## Featured Project
 - Smart Expense Management System
 - MyBusLive
+- TaskFlow-AI-react-native
+
+## FYP
+- AI-Driven Business Analytics and Decision Support System for SMEs
 
 ## Links
 - LinkedIn: linkedin.com/in/chan-zi-feng-7043703b4
